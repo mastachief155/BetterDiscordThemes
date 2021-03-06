@@ -1899,17 +1899,17 @@ section .da-scroller::-webkit-scrollbar-thumb {border: none !important;}
     background: #593695;
 }
     /* */
-    html[style] head ~ body[style] > #app-mount.appMount-3lHmkl .wordmark-2iDDfm::after {
-        content: "Dusk to Dawn";
-        display: block !important;
-        position: absolute;
-        left: 10px;
-        top: 20px;
-        width: 100px;
-        height: 5px;
-        font-size: 0.55rem;
-        color: #969696;
-        font-weight: 600;
+
+       
+        
+       
+        
+        
+        
+        
+        
+      
+     
     }
     .typeWindows-1za-n7 {
         height: 26px; 
